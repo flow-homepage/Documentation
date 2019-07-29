@@ -1,53 +1,60 @@
 # Notes Flow Project
-
-#### Grabbing API keys for the widgets.
-  *Productivity Application*
-### Core Values:
+### What is this application?
+  *It's a Productivity Application*
+# Core Values:
 - Help balance your lifestyle. 
-- Unify all notification at one spot
-- Provides theme that fits your needs.
-- Improve productivity 
+- Improve efficiency
+  
+
+## Biggest Challenges: 
+- Grabbing API keys for the widgets.
+- Getting all the API 
+- Going through each API for every widget. 
+- Widgets: Twitter, Instagram, Weather App
 
 
-
-
-Going through each API for every widget. 
-
-Widgets: Twitter, Instagram, Weather App
-
-Biggest Challenge - Getting all the API
-
-### Features:
+# Features:
 - Switch mode (work,night)
 - Have notifications
 - Break mode feature
+- Provides theme that fits your needs.
+- Unify all notification at one spot
   
-### MVP: 
-- Emails
-- Discord / Slack
-- Social: 
-- Instagram or Twitter
-- Implementing timer for the mode. 
+  
+# MVP:
+- Comprehensive Tab management
+- Different dash boards. 
+- Modes (Work, Leisure)
 
--Score of 1-5 for features
-    - 1 Pretty easy and 5 is difficult
-
-### API:
+# API:
 - Weather: Dark Sky
 - Time Keep library : Moment
 - Background Photo : Splash
 - Calendar : Google 
 - Notification : Google / Push
-### Idea:
-- This application can be a single hub.
 
-### What is the core feature of this application
-Source:
+# Idea:
+- This application can be a single hub.
+- Integrating google calendar to this application or giving them option
+- You can edit the widget using React.
+- Morning tab
+- Add notes 
+
+# What is the core feature of this application:
+- Source:
 *https://www.lifewire.com/top-personalized-start-pages-for-your-web-browser-3486281*
 
 - Start.me
 - Opening multiple links at once
 - Saving work tabs
 
-### What do we store
-Data
+# Leisure vs Work:
+- Default dashboards
+- Work (Discord, Slack)
+- Leisure(Youtube, Reddit)
+
+### Target Audience:
+- Tab Hoarder
+- People who work
+- People who surfs a lot outside of work
+- People who uses computer for their job
