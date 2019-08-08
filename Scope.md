@@ -19,19 +19,14 @@
 - Break mode feature
 - Provides theme that fits your needs.
 - Unify all notification at one spot
+- Provide background images according to your theme
+- Lift up widgets when cursor is placed
   
   
 # MVP:
 - Comprehensive Tab management
-- Different dash boards. 
-- Modes (Work, Leisure)
+- Different dash boards for different modes.
 
-# API:
-- Weather: Dark Sky
-- Time Keep library : Moment
-- Background Photo : Splash
-- Calendar : Google 
-- Notification : Google / Push
 
 # Idea:
 - This application can be a single hub.
@@ -53,8 +48,21 @@
 - Work (Discord, Slack)
 - Leisure(Youtube, Reddit)
 
-### Target Audience:
+# Target Audience:
 - Tab Hoarder
 - People who work
 - People who surfs a lot outside of work
 - People who uses computer for their job
+
+# Social Media
+- Facebook
+- Twitter
+- Youtube
+
+
+# API:
+- Weather: Dark Sky
+- Time Keep library : Moment
+- Background Photo : Splash
+- Calendar : Google 
+- Notification : Google / Push
