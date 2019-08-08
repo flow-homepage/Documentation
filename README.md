@@ -4,11 +4,11 @@
 
 - <b>Andre Aggalut: Music Lover | Quote Lover
 
-- <b>Cody Brand - Tab Hoarder | Easily overwhemled
+- <b>Cody Brand - Tab Hoarder | Easily Overwhelmed Work-a-holic
 
-- <b>Ivy Lim - Easily Distracted work-a-holic | Impulsive Web Surfer
+- <b>Ivy Lim - Easily Distracted Work-a-holic | Impulsive Web Surfer
 
-- <b>Deandra Sumitro - Tab Hoarder | Forgetful Web Surfer | Impulsive youtube binger
+- <b>Deandra Sumitro - Tab Hoarder | Forgetful Web Surfer | Impulsive Youtube Binger
 
 # Application
 
