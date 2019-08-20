@@ -1,47 +1,43 @@
 # Notes Flow Project
 ### What is this application?
-  *It's a Productivity Application*
+  *It's a Productivity Application makes the web more accessible*
+
 # Core Values:
 - Help balance your lifestyle. 
-- Improve efficiency
-  
+- Improves efficiency.
 
 ## Biggest Challenges: 
 - Grabbing API keys for the widgets.
-- Getting all the API 
+- Getting all the API / Access.  
 - Going through each API for every widget. 
-- Widgets: Twitter, Instagram, Weather App
-
+- Widgets: Twitter, Instagram, Weather App.  
 
 # Features:
-- Switch mode (work,night)
+- Switch modes (work,night)
 - Have notifications
-- Break mode feature
+- Break mode feature. 
 - Provides theme that fits your needs.
-- Unify all notification at one spot
-- Provide background images according to your theme
-- Lift up widgets when cursor is placed
-  
+- Unify all notifications in one spot.  
+- Provide background images according to your theme.  
+- Drag and Drop widgets.  
   
 # MVP:
-- Comprehensive Tab management
+- Comprehensive Tab management. 
 - Different dash boards for different modes.
 
-
 # Idea:
-- This application can be a single hub.
-- Integrating google calendar to this application or giving them option
-- You can edit the widget using React.
-- Morning tab
-- Add notes 
+- This application is a single hub.
+- Integrating Google calendar/email/notification to this application or giving them option.
+- Widget components using React.
+- Different tabs for time of day.
+- Add notes.
 
 # What is the core feature of this application:
-- Source:
-*https://www.lifewire.com/top-personalized-start-pages-for-your-web-browser-3486281*
-
+- Productivity App.
+- Source: *https://www.lifewire.com/top-personalized-start-pages-for-your-web-browser-3486281*
 - Start.me
 - Opening multiple links at once
-- Saving work tabs
+- Saving work tabs.  
 
 # Leisure vs Work:
 - Default dashboards
@@ -59,10 +55,13 @@
 - Twitter
 - Youtube
 
-
 # API:
 - Weather: Dark Sky
-- Time Keep library : Moment
-- Background Photo : Splash
+- Time library : Moment
+- Background Photo : Unsplash
 - Calendar : Google 
 - Notification : Google / Push
+- Email : Google
+
+# Database
+![alt text](https://i.imgur.com/cEPDO4X.png "ERD")
